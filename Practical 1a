@@ -1,0 +1,15 @@
+Practical 1a
+Write a program to store the elements in 1-D array and provide an option to perform the operations like searching, sorting, merging, reversing the elements.
+
+
+# to perform the operations like searching, sorting, merging, reversing the elements.
+arr1=[10,35,45,27,1,6,54]
+arr2=['hello','world']
+arr1.index(35)
+print(arr1)
+arr1.sort()
+print(arr1)
+arr1.extend(arr2)
+print(arr1)
+arr1.reverse()
+print(arr1)
